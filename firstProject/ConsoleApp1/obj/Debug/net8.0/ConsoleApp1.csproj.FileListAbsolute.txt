@@ -12,3 +12,4 @@
 /Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
 /Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
 /Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json

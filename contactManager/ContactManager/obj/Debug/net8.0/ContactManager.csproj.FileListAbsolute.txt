@@ -1,0 +1,15 @@
+/Users/mersad/Desktop/My Project/C# Project/contactManager/ContactManager/bin/Debug/net8.0/ContactManager
+/Users/mersad/Desktop/My Project/C# Project/contactManager/ContactManager/bin/Debug/net8.0/ContactManager.deps.json
+/Users/mersad/Desktop/My Project/C# Project/contactManager/ContactManager/bin/Debug/net8.0/ContactManager.runtimeconfig.json
+/Users/mersad/Desktop/My Project/C# Project/contactManager/ContactManager/bin/Debug/net8.0/ContactManager.dll
+/Users/mersad/Desktop/My Project/C# Project/contactManager/ContactManager/bin/Debug/net8.0/ContactManager.pdb
+/Users/mersad/Desktop/My Project/C# Project/contactManager/ContactManager/obj/Debug/net8.0/ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mersad/Desktop/My Project/C# Project/contactManager/ContactManager/obj/Debug/net8.0/ContactManager.AssemblyInfoInputs.cache
+/Users/mersad/Desktop/My Project/C# Project/contactManager/ContactManager/obj/Debug/net8.0/ContactManager.AssemblyInfo.cs
+/Users/mersad/Desktop/My Project/C# Project/contactManager/ContactManager/obj/Debug/net8.0/ContactManager.csproj.CoreCompileInputs.cache
+/Users/mersad/Desktop/My Project/C# Project/contactManager/ContactManager/obj/Debug/net8.0/ContactManager.sourcelink.json
+/Users/mersad/Desktop/My Project/C# Project/contactManager/ContactManager/obj/Debug/net8.0/ContactManager.dll
+/Users/mersad/Desktop/My Project/C# Project/contactManager/ContactManager/obj/Debug/net8.0/refint/ContactManager.dll
+/Users/mersad/Desktop/My Project/C# Project/contactManager/ContactManager/obj/Debug/net8.0/ContactManager.pdb
+/Users/mersad/Desktop/My Project/C# Project/contactManager/ContactManager/obj/Debug/net8.0/ContactManager.genruntimeconfig.cache
+/Users/mersad/Desktop/My Project/C# Project/contactManager/ContactManager/obj/Debug/net8.0/ref/ContactManager.dll

@@ -1,0 +1,16 @@
+﻿@page "/"
+@namespace webProject.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h1>Guess the Number</h1>
+
+<form method="post">
+    <input type="number" asp-for="UserInput" />
+    <button type="submit">Submit</button>
+</form>
+
+@if (Model.Message != null)
+{
+    <p>@Model.Message</p>
+}
+
+<p>The random number is between 1 and 10.</p>

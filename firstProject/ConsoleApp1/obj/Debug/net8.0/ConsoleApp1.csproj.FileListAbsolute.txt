@@ -1,0 +1,14 @@
+/Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/mersad/Desktop/My Project/C# Project/firstProject/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
